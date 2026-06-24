@@ -217,6 +217,7 @@
   <project path="system/fs/fs_mgr" name="system_fs_fs_mgr" remote="yaap" />
   <project path="system/libvintf" name="system_libvintf" remote="yaap" />
   <project path="system/media" name="system_media" remote="yaap" />
+  <project path="system/memory/libion" name="system_memory_libion" remote="yaap" />
   <project path="system/memory/libmeminfo" name="system_memory_libmeminfo" remote="yaap" />
   <project path="system/memory/lmkd" name="system_memory_lmkd" remote="yaap" />
   <project path="system/netd" name="system_netd" remote="yaap" />
