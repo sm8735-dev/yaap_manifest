@@ -64,7 +64,7 @@
   <project path="hardware/qcom-caf/sm8750/display/intf" remote="lineage" name="android_vendor_qcom_opensource_display-intf" groups="qcom" revision="lineage-23.2-caf-sm8750" />
   <project path="hardware/qcom-caf/vr" remote="lineage" name="android_hardware_qcom_vr" groups="qcom,legacy-qcom" revision="lineage-22.1" />
   <project path="hardware/samsung/nfc" remote="lineage" name="android_hardware_samsung_nfc" />
-  <project path="vendor/codeaurora/telephony" remote="lineage" name="android_vendor_codeaurora_telephony" groups="qcom,qssi" />
+  <project path="vendor/codeaurora/telephony" remote="lineage" name="android_vendor_codeaurora_telephony" groups="qcom,qssi" revision="lineage-23.2" />
   <project path="vendor/qcom/opensource/audio-hal/st-hal" remote="lineage" name="android_vendor_qcom_opensource_audio-hal_st-hal" groups="qcom,lahaina" revision="lineage-22.2" />
   <project path="vendor/qcom/opensource/audio-hal/st-hal-ar" remote="lineage" name="android_vendor_qcom_opensource_audio-hal_st-hal-ar" groups="qcom,pakala-audio" revision="lineage-23.2" />
   <project path="vendor/qcom/opensource/audio-hal/st-hal-ar-legacy" remote="lineage" name="android_vendor_qcom_opensource_audio-hal_st-hal-ar" groups="qcom,lanai-audio" revision="lineage-23.2-legacy" />
