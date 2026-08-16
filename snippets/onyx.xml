@@ -8,7 +8,7 @@
   <remote  name="codeberg"
            fetch="https://codeberg.org/zenin1504" />
 
-  <project name="device_xiaomi_onyx" path="device/xiaomi/onyx" remote="zenin" revision="rebase" />
+  <project name="device_xiaomi_onyx" path="device/xiaomi/onyx" remote="zenin" revision="seventeen" />
 
   <project name="device_xiaomi_onyx-miuicamera" path="device/xiaomi/onyx-miuicamera" remote="zenin" revision="miuicam" />
 
@@ -18,6 +18,6 @@
   <project name="kernel_xiaomi_sm8735-devicetrees" path="kernel/xiaomi/sm8735-devicetrees" remote="zenin" revision="oss" />
   <project name="kernel_xiaomi_sm8735-modules" path="kernel/xiaomi/sm8735-modules" remote="zenin" revision="oss" />
 
-  <project name="vendor_xiaomi_onyx" path="vendor/xiaomi/onyx" remote="codeberg" revision="sixteen" />
+  <project name="vendor_xiaomi_onyx" path="vendor/xiaomi/onyx" remote="codeberg" revision="seventeen" />
 
 </manifest>
