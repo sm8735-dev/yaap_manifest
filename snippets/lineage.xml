@@ -71,7 +71,7 @@
   <project path="vendor/qcom/opensource/commonsys-intf/audio" remote="lineage" name="android_vendor_qcom_opensource_audio-commonsys-intf" groups="qcom,qssi" />
   <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" remote="lineage" name="android_vendor_qcom_opensource_bluetooth-commonsys-intf" groups="qcom,qssi" />
   <project path="vendor/qcom/opensource/commonsys-intf/display" remote="lineage" name="android_vendor_qcom_opensource_display-commonsys-intf" groups="qcom,qssi" />
-  <project path="vendor/qcom/opensource/commonsys/audio" remote="lineage" name="android_vendor_qcom_opensource_audio" groups="qcom,qssi" />
+  <project path="vendor/qcom/opensource/commonsys/audio" remote="lineage" name="android_vendor_qcom_opensource_audio" groups="qcom,qssi" revision="lineage-24.0" />
   <project path="vendor/qcom/opensource/commonsys/display" remote="lineage" name="android_vendor_qcom_opensource_display-commonsys" groups="qcom,qssi" />
   <project path="vendor/qcom/opensource/commonsys/fm" remote="lineage" name="android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" />
   <project path="vendor/qcom/opensource/commonsys/wfd" remote="lineage" name="android_vendor_qcom_opensource_wfd-commonsys" revision="lineage-24.0" groups="qcom,kailua-video" />
